@@ -6,7 +6,7 @@ An interactive Tableau dashboard analyzing customer churn patterns across demogr
 
 ## Overview
 
-This Tableau workbook (`CustomerChurnDemoV2.twbx`) visualizes customer churn data to help identify key drivers of attrition. It includes demographic breakdowns, geographic distribution, and product-level analysis to support retention strategy decisions.
+This Tableau workbook (`CustomerChurnDashboard.twbx`) visualizes customer churn data to help identify key drivers of attrition. It includes demographic breakdowns, geographic distribution, and product-level analysis to support retention strategy decisions.
 
 ---
 
